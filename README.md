@@ -1,4 +1,4 @@
-# Setting Up and Running the OpenShorts Pipeline
+# Setting Up and Running the AdrinalClipper
 
 ## Why `.env` shouldn't go through GitHub
 
@@ -21,8 +21,8 @@ In Termux:
 
 ```bash
 cd ~
-git clone https://github.com/your-username/your-repo-name.git openshorts-pipeline
-cd openshorts-pipeline
+git clone https://github.com/Adrinal/AdrinalClipper.git AdrinalClipper
+cd AdrinalClipper
 ```
 
 ## Step 2 — Run the setup script
